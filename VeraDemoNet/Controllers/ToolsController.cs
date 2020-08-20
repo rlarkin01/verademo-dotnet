@@ -6,7 +6,7 @@ using System.Web.Hosting;
 using System.Web.Mvc;
 using VeraDemoNet.Models;
 
-namespace VeraDemoNet.Controllers
+namespace VeraDemoNet.Controllers  
 {
     public class ToolsController : AuthControllerBase
     {
